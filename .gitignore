@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+.DS_Store
+kb_index/

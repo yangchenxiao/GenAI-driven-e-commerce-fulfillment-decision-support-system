@@ -1,0 +1,12 @@
+streamlit
+pandas
+mysql-connector-python
+python-dotenv
+matplotlib
+google-genai
+langchain-text-splitters
+langchain-community
+langchain-core
+langchain-huggingface
+sentence-transformers
+chromadb
